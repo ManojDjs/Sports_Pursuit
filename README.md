@@ -1,4 +1,7 @@
 # Sports_Pursuit
+
+# Final_code_SP.py is the mail submission file 
+# Final_Code.ipnb is jupyternotebook file 
 ### To run this code 
 <h5> git clone repo name</h5>
 <h5> pip install -r requirements.txt</h5>

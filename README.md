@@ -1,5 +1,5 @@
 # Sports_Pursuit
-I pity on you if you dont understand object oriented programing 
+object oriented programing 
 # Final_code_SP.py is the mail submission file 
 # Final_Code.ipnb is jupyternotebook file 
 ### To run this code 
